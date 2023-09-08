@@ -1,0 +1,9 @@
+//write a program that determines whether a year enter by a user is a leap year or not using if else if else statement //
+(
+int age;
+char name; 
+int I'd; 
+isjxhdi; 
+jdjjfo; 
+hsjsiie; 
+);
